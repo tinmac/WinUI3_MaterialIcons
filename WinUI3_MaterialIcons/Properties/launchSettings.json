@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUI3_MaterialIcons (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUI3_MaterialIcons (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
